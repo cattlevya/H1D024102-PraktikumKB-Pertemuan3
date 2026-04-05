@@ -8,7 +8,7 @@ Program ini mengimplementasikan sistem inferensi fuzzy (Fuzzy Inference System) 
 
 ---
 
-### 1. Studi Kasus 1 — Penentuan Stok Makanan (`main.py`)
+### 1. Studi Kasus 1 - Penentuan Stok Makanan (`main.py`)
 
 Program ini menentukan jumlah stok makanan yang direkomendasikan berdasarkan 4 variabel input menggunakan logika fuzzy.
 
@@ -36,7 +36,7 @@ Terdapat 6 aturan fuzzy IF-THEN yang didefinisikan pada baris ke-40 sampai 45.
 
 ---
 
-### 2. Studi Kasus 2 — Kepuasan Pelayanan Masyarakat (`studi2.py`)
+### 2. Studi Kasus 2 - Kepuasan Pelayanan Masyarakat (`studi2.py`)
 
 Program ini menentukan tingkat kepuasan pelayanan masyarakat berdasarkan 4 variabel input menggunakan logika fuzzy.
 
